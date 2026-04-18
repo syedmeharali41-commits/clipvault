@@ -19,6 +19,8 @@
 ![Main Window](docs/screenshot1.png)
 ![Search](docs/screenshot2.png)
 ![Settings](docs/screenshot3.png)
+![Settings](docs/screenshot4.png)
+![Settings](docs/screenshot5.png)
 
 </div>
 
