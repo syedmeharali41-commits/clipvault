@@ -40,7 +40,7 @@ No cloud. No account. No telemetry. Just your clipboard history, always availabl
 | Feature | Details |
 |---|---|
 | **Universal Capture** | Automatically captures plain text, rich HTML, and images the moment you copy |
-| **`Alt+V` Hotkey** | Opens the panel from anywhere — no mouse, no window switching |
+| **`Alt+V` Hotkey** | Opens the panel from anywhere  no mouse, no window switching |
 | **Smart Auto-Paste** | Remembers the last focused window and fires `Ctrl+V` directly into it via Win32 APIs |
 | **Real-time Search** | Instantly search across thousands of clipboard items |
 | **Pin Items** | Pinned items stay at the top and are never auto-deleted |
@@ -50,10 +50,10 @@ No cloud. No account. No telemetry. Just your clipboard history, always availabl
 | Feature | Details |
 |---|---|
 | **SQLite + WAL Mode** | Crash-safe Write-Ahead Logging for high-performance local storage |
-| **Up to 10,000 items** | Configurable history limit — oldest unpinned items removed automatically |
+| **Up to 10,000 items** | Configurable history limit  oldest unpinned items removed automatically |
 | **Auto-Delete by Age** | Optionally purge items older than N days |
-| **Duplicate Detection** | Copying the same content twice just refreshes its timestamp — no clutter |
-| **Safe Storage Location** | Database lives in `%APPDATA%\clipboard-manager\` — untouched by disk cleanup tools |
+| **Duplicate Detection** | Copying the same content twice just refreshes its timestamp no clutter |
+| **Safe Storage Location** | Database lives in `%APPDATA%\clipboard-manager\` untouched by disk cleanup tools |
 
 ### Backup & Management
 | Feature | Details |
@@ -65,7 +65,7 @@ No cloud. No account. No telemetry. Just your clipboard history, always availabl
 ### System
 | Feature | Details |
 |---|---|
-| **System Tray** | Runs as a tray icon — zero taskbar clutter |
+| **System Tray** | Runs as a tray icon zero taskbar clutter |
 | **Auto-Start** | Launches silently at Windows startup |
 | **Smart Positioning** | Panel opens near your cursor and auto-adjusts to stay on screen |
 | **Blur to Close** | Click anywhere outside the panel and it disappears |
@@ -74,7 +74,7 @@ No cloud. No account. No telemetry. Just your clipboard history, always availabl
 
 ## 📦 Installation
 
-### Option 1 — Installer (Recommended)
+### Option 1 Installer (Recommended)
 
 **1. Download**
 Go to [**Releases**](https://github.com/yourusername/clipvault/releases/latest) and download **`ClipVault-Setup-x.x.x.exe`**
@@ -113,23 +113,17 @@ After install, look at the **bottom-right corner** of your screen, next to the c
 
 **Opening ClipVault with the hotkey**
 
-Press **`Alt + V`** from anywhere — while typing, coding, or browsing. The panel appears instantly near your cursor. Click any item to paste it back into your previous window. Press **`Alt + V`** again or click outside to close.
+Press **`Alt + V`** from anywhere  while typing, coding, or browsing. The panel appears instantly near your cursor. Click any item to paste it back into your previous window. Press **`Alt + V`** again or click outside to close.
 
 ---
 
 > **⚠️ Windows SmartScreen**
 >
-> Windows may show *"Windows protected your PC"* on first launch. This happens because the app is not yet commercially code-signed — it does not mean the app is unsafe.
+> Windows may show *"Windows protected your PC"* on first launch. This happens because the app is not yet commercially code-signed it does not mean the app is unsafe.
 >
 > To proceed: click **"More info"** → then **"Run anyway"**
 >
 > The full source code is open and auditable right here on GitHub.
-
----
-
-### Option 2 — Portable
-
-Download **`ClipVault-Portable-x.x.x.zip`**, extract anywhere, run `ClipVault.exe`. No installation, nothing written to the registry. Delete the folder to remove it completely.
 
 ---
 
