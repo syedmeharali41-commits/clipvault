@@ -77,7 +77,7 @@ No cloud. No account. No telemetry. Just your clipboard history, always availabl
 ### Option 1 — Installer (Recommended)
 
 **1. Download**
-Go to [**Releases**](https://github.com/yourusername/clipvault/releases/latest) and download **`ClipVault-Setup-x.x.x.exe`**
+Go to [**Releases**](https://github.com/syedmeharali41-commits/clipvault/releases) and download **`ClipVault-Setup-x.x.x.exe`**
 
 **2. Run the installer**
 Double-click the `.exe` file, then follow these steps:
