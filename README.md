@@ -16,7 +16,9 @@
 
 ---
 
-![ClipVault Demo](docs/demo.gif)
+![Main Window](docs/screenshot1.png)
+![Search](docs/screenshot2.png)
+![Settings](docs/screenshot3.png)
 
 </div>
 
